@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/MOF.egg-info/PKG-INFO
+src/MOF.egg-info/SOURCES.txt
+src/MOF.egg-info/dependency_links.txt
+src/MOF.egg-info/top_level.txt

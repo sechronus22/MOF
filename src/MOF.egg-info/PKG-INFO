@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: MOF
+Version: 0.0.2
+Summary: A Python package of Mass-ratio-variance Outlier Factor (MOF)
+Home-page: https://github.com/sechronus22/MOF
+Author: Worawit Jitpakdeebodin
+Author-email: retpoc4391@hotmail.com
+Project-URL: Bug Tracker, https://github.com/sechronus22/MOF/issues
+Project-URL: repository, https://github.com/sechronus22/MOF
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# MOF
+Mass-ratio-variance outlier factor (MOF) is a parameter-free outlier factor proposed by Krung Sinapiromsaran and Pitchapop.
